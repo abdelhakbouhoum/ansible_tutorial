@@ -7,3 +7,6 @@ node2
 
 [file_servers]
 node2 
+
+[workstations]
+node2
