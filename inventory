@@ -1,4 +1,9 @@
+[web_servers]
 node1
-node2
 node3
 
+[db_servers]
+node2 
+
+[file_servers]
+node2 
